@@ -1,0 +1,21 @@
+# Core dependencies
+openai==1.107.2
+python-dotenv==1.1.1
+
+# Data processing
+pandas==2.3.2
+numpy==2.3.3
+
+# Visualization
+matplotlib==3.10.6
+IPython==9.5.0
+
+# Web APIs
+requests==2.32.3
+
+# JSON processing (built-in, no install needed)
+# json is part of Python standard library
+
+# Optional: For Jupyter notebooks
+jupyter==1.1.1
+notebook==7.4.5
