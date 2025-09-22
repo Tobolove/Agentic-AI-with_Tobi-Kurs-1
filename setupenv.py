@@ -39,3 +39,4 @@ def call_openai(system_prompt, user_prompt, model=model):
         return response.choices[0].message.content
     except Exception as e:
         return f"An error occurred: {e}"
+    
